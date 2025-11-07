@@ -4,7 +4,7 @@ title:      qt的无边框窗口支持拖拽、Aero Snap、窗口阴影等特性
 subtitle:   qt的无边框窗口支持拖拽、Aero Snap、窗口阴影等特性
 date:       2024-10-29
 author:     Yzi321
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-keybord.jpg
 catalog: true
 tags:
     - qt

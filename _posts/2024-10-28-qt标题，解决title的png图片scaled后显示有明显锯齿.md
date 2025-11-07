@@ -4,7 +4,7 @@ title:      qt标题，解决title的png图片scaled后显示有明显锯齿
 subtitle:   优化qt下自定义TitleBar的左上角ICO的显示效果
 date:       2024-10-28
 author:     Yzi321
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-keybord.jpg
 catalog: true
 tags:
     - qt

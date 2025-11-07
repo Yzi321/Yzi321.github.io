@@ -4,7 +4,7 @@ title:      vs+qt修改本地ico（已有一份ico）
 subtitle:   vs+qt修改生成exe的ico图标
 date:       2024-10-28
 author:     Yzi321
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-keybord.jpg
 catalog: true
 tags:
     - qt

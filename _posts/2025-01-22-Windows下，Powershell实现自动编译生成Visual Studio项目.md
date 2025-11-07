@@ -4,7 +4,7 @@ title:      Windows下，Powershell实现自动编译生成Visual Studio项目
 subtitle:   Powershell脚本自动编译Visual Studio项目；脚本自动更新版本号
 date:       2025-01-22
 author:     Yzi321
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-keybord.jpg
 catalog: true
 tags:
     - Powershell
